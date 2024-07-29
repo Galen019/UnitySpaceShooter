@@ -1,0 +1,1 @@
+V:\Projects\Space Shooter\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
